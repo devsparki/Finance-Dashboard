@@ -1,6 +1,8 @@
 Finance Dashboard – Modern Web App
 Um dashboard financeiro moderno e interativo, inspirado na experiência visual de fintechs como Nubank e Revolut. Construído com React + Vite, estilizado com TailwindCSS + shadcn/ui, e projetado com foco em visual dark premium, animações suaves e gráficos dinâmicos.
 
+    finance-dashboard-chi-taupe.vercel.app
+
 ✨ Visão Geral
 Este projeto entrega um painel financeiro completo com:
 Card de saldo com animação
