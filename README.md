@@ -1,73 +1,74 @@
-# Welcome to your Lovable project
+Finance Mobile Dashboard
 
-## Project info
+Um dashboard financeiro mobile moderno inspirado em aplicativos como Nubank e Revolut, com tema escuro elegante, gráficos interativos, animações suaves e interface altamente refinada.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+📱 Funcionalidades — V1
+Dashboard
 
-## How can I edit this code?
+Card de saldo com animação de entrada
 
-There are several ways of editing your application.
+Gráfico interativo de gastos x receitas
 
-**Use Lovable**
+Lista de transações recentes
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Quick Actions (Adicionar gasto, adicionar receita, transferir, etc.)
 
-Changes made via Lovable will be committed automatically to this repo.
+Navegação inferior estilizada
 
-**Use your preferred IDE**
+Cartões
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Exibição dos cartões do usuário
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Limite total, limite utilizado e valor disponível
 
-Follow these steps:
+Motion/3D-like swipe entre cartões
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Indicadores de status (ativo, bloqueado, virtual)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Análise
 
-# Step 3: Install the necessary dependencies.
-npm i
+Gráfico de pizza por categorias
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Gráfico de barras com gastos mensais
 
-**Edit a file directly in GitHub**
+Insights automáticos (maior despesa, mês mais caro, tendência semanal)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Alertas
 
-**Use GitHub Codespaces**
+Sistema de notificações financeiras
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Alertas de compras suspeitas
 
-## What technologies are used for this project?
+Alertas de limite próximo
 
-This project is built with:
+Filtros (todos, importantes, não lidos)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Perfil
 
-## How can I deploy this project?
+Dados da conta
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Preferências do app
 
-## Can I connect a custom domain to my Lovable project?
+Tema, segurança, notificações
 
-Yes, you can!
+Acesso ao suporte
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🎨 Design & UI/UX
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Tema dark premium
+
+Glassmorphism em cards e containers
+
+Gradientes verdes para valores positivos
+
+Gradientes coral para despesas
+
+Transições suaves em todas as telas
+
+Ícones minimalistas e animações micro-interativas
+
+Layout responsivo 100% mobile-first
+
+🏗️ Como Rodar o Projeto
+npm install
+npm start
